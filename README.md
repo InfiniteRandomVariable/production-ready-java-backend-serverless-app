@@ -2,7 +2,7 @@
 
 Serverless app powered by Java-backend, a modification of AWS real world production-ready serverless application.
 
-Utilized: Maven, Vue, unit testing, template, deployment stack, CDN.
+Utilized: DynamoDB, Maven, Vue, unit testing, template, deployment stack, CDN.
 
 What does the app do?
 
