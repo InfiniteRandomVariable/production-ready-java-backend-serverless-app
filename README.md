@@ -23,7 +23,7 @@ Step 7: Sign out.
 Step 8: Repeat Step 4.
 
 
-Follow this link to see the login example:
+Follow this link to see the login example (Currently OFFLINE):
 
 http://serverlessrepo-realworld-serverless-websitebucket-13kxgq4w0sg82.s3-website-us-east-1.amazonaws.com/#/
 
